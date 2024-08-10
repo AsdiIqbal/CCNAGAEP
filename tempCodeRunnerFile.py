@@ -1,0 +1,1 @@
+print("Nature's first green is gold,\nHer hardest hue to hold.\nHer early leaf's a flower;\nBut only so an hour.")
